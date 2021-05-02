@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run covid_dashboard_deploy
+web: sh setup.sh && streamlit run covid_dashboard_deploy.py
